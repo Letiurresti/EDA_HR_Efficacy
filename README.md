@@ -30,12 +30,5 @@ Se plantean varias hipótesis relacionadas con factores que podrían influir en 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="140" height="40"/>
   </a>
-  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NumPy_logo.svg/240px-NumPy_logo.svg.png" alt="SciPy" width="40" height="40"/>
-  </a>
 </p>
 
-  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NumPy_logo.svg/240px-NumPy_logo.svg.png" alt="SciPy" width="40" height="40"/>
-  </a>
-</p>
