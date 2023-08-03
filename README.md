@@ -16,13 +16,21 @@ Se plantean varias hipótesis relacionadas con factores que podrían influir en 
 
 4. Los trabajadores que colaboran principalmente con compañeros del mismo sexo muestran una eficacia diaria promedio diferente en comparación con aquellos que trabajan con compañeros del sexo opuesto.
 
-## Herramientas Utilizadas
-
-El desarrollo del Análisis Exploratorio de Datos (EDA) se ha realizado utilizando las siguientes herramientas y librerías de Python:
-
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png)
-- ![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/240px-Pandas_logo.svg.png)
-- ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/240px-Created_with_Matplotlib-logo.svg.png)
-- ![Seaborn](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Seaborn_logo.png/240px-Seaborn_logo.png)
-- ![Math](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Simple_Math_Sign_Plus.png/240px-Simple_Math_Sign_Plus.png)
-- ![SciPy](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NumPy_logo.svg/240px-NumPy_logo.svg.png)
+<h3 align="left">Herramientas Utilizadas:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/240px-Pandas_logo.svg.png" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/240px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Seaborn_logo.png/240px-Seaborn_logo.png" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NumPy_logo.svg/240px-NumPy_logo.svg.png" alt="SciPy" width="40" height="40"/>
+  </a>
+</p>
